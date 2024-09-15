@@ -48,4 +48,4 @@ urllib3==2.2.3
 watchdog==4.0.2
 matplotlib
 wordcloud
-sklearn
+scikit-learn
